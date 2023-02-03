@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChrisElliotUK
-- 👀 I’m interested in ... Flutter, Dart, Astro.build and Blockchain!
-- 🌱 I’m currently learning ... Flutter and Solidity.
-- 💞️ I’m looking to collaborate on ... Blockchain and Flutter projects!
+- 👀 I’m interested in ... Flutter, Dart and Go.
+- 🌱 I’m currently learning ... Flutter and Go.
+- 💞️ I’m looking to collaborate on ... Flutter and Go projects!
 - 📫 How to reach me ... https://www.linkedin.com/in/christopherelliot/
 
 <!---
